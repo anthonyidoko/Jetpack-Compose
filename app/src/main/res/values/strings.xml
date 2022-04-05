@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Compose Basics</string>
+    <string name="dummy_text">Lorem Ipsum is simply dummy text of the printing and typesetting industry.Lorem Ipsum is simply dummy text of the printing and typesetting industry.</string>
+    <string name="btn_clicked">Button Clicked</string>
+    <string name="show_less">Show less</string>
+    <string name="show_more">Show more</string>
+</resources>
