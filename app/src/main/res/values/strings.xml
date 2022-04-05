@@ -4,4 +4,7 @@
     <string name="btn_clicked">Button Clicked</string>
     <string name="show_less">Show less</string>
     <string name="show_more">Show more</string>
+    <string name="my_photo">User Photo</string>
+    <string name="profile_name">Anthony Zoe Idoko</string>
+    <string name="profile_time">3 minutes ago</string>
 </resources>
