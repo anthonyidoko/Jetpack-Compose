@@ -1,3 +1,11 @@
 <resources>
     <string name="app_name">Jetpack Compose</string>
+    <string name="arrow_up">Show Less</string>
+    <string name="arrow_down">Show More</string>
+    <string name="search_icon">Search Icon</string>
+    <string name="search">Search</string>
+    <string name="align_body">Align Your Body</string>
+    <string name="favorite_collections">Favorite Collections</string>
+    <string name="home">Home</string>
+    <string name="profile">Profile</string>
 </resources>
